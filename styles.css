@@ -1,0 +1,386 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  
+}
+.container {
+  display: flex;
+    align-items: center;
+    width: 100%;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo {
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px;
+}
+ a {
+  text-decoration: none;
+    color: #040404;
+}
+a:hover {
+  color: #29b64c;
+  transition-duration: 1s;
+ transition-timing-function: initial;
+}
+.nav-right-side {
+  margin-left: 250px;
+
+}
+.nav-right-side a {
+  margin-right: 20px;
+}
+.btn1 {
+  border: none;
+  background-color: #E16259;
+  border-radius: 4px;
+  height: 25px;
+  width: 110px;
+  color: white;
+  cursor: pointer;
+}
+.btn1:hover {
+  background-color: #792261;
+  transition-duration: 1s;
+  transition-timing-function: initial;
+
+}
+.container-2 {
+  display: flex;
+  width: 100%;
+  padding-left: 100px;
+  padding-right: 100px;
+  gap: 100px;
+}
+.hero-img {
+  margin-top: 80px;
+}
+.div1-c2 {
+  margin-top: 150px;
+}
+.div1-c2 p {
+  color: #00000099;
+}
+
+.btn2 {
+  border: none;
+  background-color: #E16259;
+  border-radius: 4px;
+  height: 25px;
+  width: 110px;
+  margin-top: 15px;
+  color: white;
+  cursor: pointer;
+}
+.btn2:hover {
+  background-color: #792261;
+  transition-duration: 1s;
+  transition-timing-function: initial;
+
+}
+.container-3 {
+  display: flex;
+  width: 100%;
+  margin-top: 100px;
+}
+.div1-c3 {
+  padding-top: 200px;
+}
+.div1-c3 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.container-4 {
+  display: flex;
+  width: 100%;
+
+}
+.div1-c4 {
+  padding-top: 200px;
+}
+.div1-c4 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.container-5 {
+  display: flex;
+  width: 100%;
+}
+.div1-c5 {
+  padding-top: 200px;
+}
+.div1-c5 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.container-6 {
+  display: flex;
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.div1-c6 {
+  padding-top: 200px;
+}
+.div1-c6 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.container-7 {
+  display: flex;
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-top: 200px;
+  gap: 500px;
+}
+
+.btn3 {
+  border: none;
+  background-color: #E16259;
+  border-radius: 4px;
+  height: 25px;
+  width: 110px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+}
+.btn3:hover {
+  background-color: #792261;
+  transition-duration: 1s;
+  transition-timing-function: initial;
+
+}
+.div1-c7 {
+  padding-left: 50px;
+}
+.div1-c7 p {
+  margin-top: 10px;
+  color: #00000099;
+}
+.container-8 {
+  display: flex;
+  width: 100%;
+  margin-top: 100px;
+  padding-left: 80px;
+  padding-right: 50px;
+}
+.container-9 {
+  display: flex;
+  width: 100%;
+  margin-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  gap: 350px;
+}
+.btn5 {
+  border: none;
+  color: #040404;
+  cursor: pointer;
+}
+.btn5:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+
+}
+.div1-c9 {
+  padding-left: 50px;
+}
+.div1-c9 p {
+  color: #00000099;
+}
+.container-10 {
+  display: flex;
+  width: 100%;
+  margin-top: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.container-11 {
+  display: flex;
+  width: 100%;
+  margin-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  gap: 450px;
+}
+.btn6 {
+  border: none;
+  color: #040404;
+  cursor: pointer;
+}
+.btn6:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.div1-c11 {
+  margin-top: 100px;
+  padding-left: 50px;
+}
+.container-12 {
+  display: flex;
+  width: 100%;
+  margin-top: 100px;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.container-12 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.container-13 {
+  display: flex;
+  width: 100%;
+  padding-left: 500px;
+  margin-top: 200px;
+}
+.div1-c13 {
+  line-height: 25px;
+}
+.div1-c13 p {
+  color: #00000099;
+  font-size: 15px;
+}
+.div2-c13 {
+  padding-left: 150px;
+}
+.btn4 {
+  width: 230px;
+  border: none;
+  background-color: #E16259;
+  border-radius: 4px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 16px;
+  font-weight: 200;
+  color: white;
+  cursor: pointer;
+
+}
+.btn4:hover {
+  background-color: #792261;
+  transition-duration: 1s;
+  transition-timing-function: initial;
+
+}
+.footer-c14 {
+  display: flex;
+  width: 100%;
+  gap: 70px;
+  padding-left: 50px;
+  padding-right: 50px;
+  line-height: 30px;
+  margin-top: 100px;
+}
+.logo-2 {
+  cursor: pointer;
+}
+.ftr-line-1 {
+  width: 150px;
+  height: 340px;
+  
+}
+.ftr-line-1 li a{
+  color: #00000099;
+  font-size: 15px;
+}
+.ftr-line-1 li a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+
+.ftr-line-2 {
+  width: 140px;
+  height: 340px;
+
+}
+.ftr-line-2 li a {
+  color: #00000099;
+  font-size: 15px;
+}
+.ftr-line-2 li a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.ftr-line-3 {
+  width: 180px;
+  height: 340px;
+ 
+}
+.ftr-line-3 li a {
+  color: #00000099;
+  font-size: 15px;
+}
+.ftr-line-3 li a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.ftr-line-4 {
+  width: 140px;
+  height: 340px;
+
+}
+.ftr-line-4 li a {
+  color: #00000099;
+  font-size: 15px;
+}
+.ftr-line-4 li a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.ftr-line-5 {
+  width: 140px;
+  height: 340px;
+ 
+}
+.ftr-line-5 li a {
+  color: #00000099;
+  font-size: 15px;
+}
+.ftr-line-5 li a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.last-container {
+  display: flex;
+  width: 100%;
+  margin-top: 150px;
+  padding-left: 50px;
+  gap: 550px;
+  padding-bottom: 30px;
+}
+.div1-last a {
+  margin-right: 15px;
+  font-size: 15px;
+  cursor: pointer;
+  color: #000000;
+  font-weight: 550;
+}
+.div1-last a:hover {
+  color: #792261;
+  transition-duration: 0.5s;
+  transition-timing-function: initial;
+}
+.last-div-icons {
+  margin-right: 10px;
+  cursor: pointer;
+
+}
